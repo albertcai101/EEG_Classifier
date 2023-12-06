@@ -1,0 +1,5 @@
+models/
+sub-01/
+training_images/
+eeg_dataset.pkl
+images_dataset.pkl
